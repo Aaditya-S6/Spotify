@@ -1,0 +1,138 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+nav{
+    background-color:black;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    row-gap: 15px;
+    height: 80px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    margin: center;
+    position: relative;
+    right: 20px;
+    margin-top: 20px;
+    font-size: large;
+}
+li a:hover{
+  cursor: pointer;
+  color: rgb(15, 247, 15);
+}
+
+.Aaditya1{
+    position: absolute;
+    left: 125px;
+    font-size: 26px;
+  }
+  
+  .Aaditya2{
+    position: absolute;
+    left: 100px;
+    color: aquamarine;
+  }
+  li a{
+    padding: 10px;
+  }
+  .Image{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/421/786/original/abstract-rectangle-pink-background-concept-free-vector.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+
+  }
+  .spot{
+    height: 550px;
+    width: 350px;
+    position: relative;
+    margin-left: 180px;
+    margin-top: 150px;
+    border: 15px solid white;
+    border-radius: 5px;
+  }
+  .heading{
+    color: white;
+    position: absolute;
+    margin-left: 700px;
+    top: 37%;
+    font-size: 75px;
+
+  }
+  .button{
+    position: absolute;
+    margin-left: 150px;
+    top: 62%;
+    height: 50px;
+    width: 170px;
+    border-radius: 30px;
+    color:black;
+    background-color: white;
+  }
+  .thought{
+  background-image: url(https://imgs.search.brave.com/S0myC5NMRs7Ru-NnPT7JSR8kgIzARgeDXWhiTLEaiRU/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/N2hDQjEzVmY4R3hr/RzNDRF93Y2pRSGFF/SyZwaWQ9QXBp);
+  height: 200px;
+  color: white;
+  font-size: 50px;
+  
+
+
+}
+text{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.p2 h1{
+    text-align:center;
+}
+.a1,.a2,.a3,.a4{
+    padding:60px;
+}
+.cart{
+    position: absolute;
+    left:130px;
+
+}
+.cart2{
+    position:absolute;
+    left:200px;
+    top:1200px;
+    padding:80px;
+    gap:30px;
+
+}
+.why{
+    font-size: 70px;
+}
+.last{
+    position: absolute;
+    margin-top: 50%;
+}
+.thought{
+    background-image: url(https://imgs.search.brave.com/S0myC5NMRs7Ru-NnPT7JSR8kgIzARgeDXWhiTLEaiRU/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/N2hDQjEzVmY4R3hr/RzNDRF93Y2pRSGFF/SyZwaWQ9QXBp);
+    height: 200px;
+    color: white;
+    font-size: 50px;
+    
+  
+  
+  }
+  text{
+      position: absolute;
+      margin-left: 40%;
+      margin-top: 200px;
+  }
+
